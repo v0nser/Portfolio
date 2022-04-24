@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Vaibhav Kumar Singh",
+    "occupation": "An enthusiastic CS student",
+    "description": "COMPETITIVE PROGRAMMER || WEB DEVELOPER (MERN STACK) || COSMOS ENTHUSIAST",
+    "image": "profile.jpg",
+    "bio": "I'm a passionate CS student and enthusiactic programmer, always pumped to creating new projects out there. I have experience developing and designing web application, from simple landing pages to progressive web applications. I strive to create web applications that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user experiences. I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code. I consider work an ongoing education, and I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out best in me.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "raghuvanshivaibhav01@gmail.com",
+    "phone": "+91 7388964758",
+    "address": {
+      "street": "Chitkara University",
+      "city": "Rajpura",
+      "state": "Punjab",
+      "zip": "140401"
+    },
+    "website": "",
+    "resumedownload": "https://docs.google.com/document/d/1mWeq2ET6xMhaUG5kIucfXSnR0xH-IIM2YfgOwVwNg4E/edit",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100070479648898",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/vaibhav-kumar-singh-b439311b0",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mevaibhav/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/v0nser",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Chitkara University - India",
+        "degree": "Bachelor of Engineering, Computer Science",
+        "graduated": "2025",
+        "description": "A freshman at Chitkara University."
+      }
+      
+    ],
+"work": [
+      {
+        "company": "GFG_CUIET",
+        "title": "Technical Lead",
+        "years": "April - Present",
+        "description":""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NXT Origin",
+        "category": "Website Frontend",
+        "image": "Capture.png",
+        "url": "https://v0nser.github.io/Space-Tourism.github.io/"
+      },
+      {
+        "title": "Weather App",
+        "category": "",
+        "image": "weather.jpg",
+        "url": "https://github.com/v0nser/weather-app.github.io"
+      },
+      {
+        "title": "WhatsApp Clone (MERN Stack)",
+        "category": "",
+        "image": "whatsapp.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
